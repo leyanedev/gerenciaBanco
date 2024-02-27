@@ -1,6 +1,6 @@
 # gerenciaBanco
 
-Roteiro de Aula Prática da disciplina: LINGUAGEMORIENTADA AOBJETOS - 2º Semestre 
+Roteiro de Aula Prática da disciplina: LINGUAGEM ORIENTADA A  OBJETOS - 2º Semestre 
 
  *OBJETIVOS: 
  
